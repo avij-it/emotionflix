@@ -47,8 +47,8 @@ Movies are more than entertainment; they are emotional journeys that:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/emotion-movie-recommender.git
-cd emotion-movie-recommender
+git clone https://github.com/yourusername/emotionflix.git
+cd emotionflix
 ```
 
 2. Install required dependencies:
